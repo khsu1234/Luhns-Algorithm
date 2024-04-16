@@ -3,7 +3,9 @@
  * Name: Bill Nicholson                     *
  * email: nicholdw@ucmail.uc.edu            *
  * Luhn's Algorithm                         *
- *                                          *
+ *                         Add another class, call validate card method, pass it some string
+ *                         it should tell you if you have a valid card number or not
+ *                         commit and push, go back to github and pull request*
  ********************************************/
 using System;
 
